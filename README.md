@@ -14,4 +14,4 @@ Una aplicación web simple para grabar la pantalla y descargar el video grabado 
 - **CSS**: Estilos para la interfaz.
 - **JavaScript**: Para la grabación de pantalla y control de la interfaz.
 
-- 2gmh.github.io/screenrecord
+## https://2gmh.github.io/screenrecord
